@@ -10,6 +10,14 @@ mako implements the [FreeDesktop Notifications Specification][spec].
 
 Feel free to join the IRC channel: [#emersion on irc.libera.chat][irc].
 
+## Notice
+
+This is a modified version of mako with specific changes applied.
+
+The changes made are listed as follows:
+- dynamic width (through additional 'min-width' option)
+- that's it
+
 ## Running
 
 

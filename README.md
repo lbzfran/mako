@@ -1,3 +1,13 @@
+# ⚠️ NOTICE
+
+This is a modified version of mako with specific changes applied.
+
+The changes made are listed as follows:
+- dynamic width (through additional 'min-width' option)
+- that's it
+
+All other descriptions/features are kept mostly intact.
+
 # mako
 
 A lightweight notification daemon for Wayland. Works on Sway.
@@ -10,13 +20,6 @@ mako implements the [FreeDesktop Notifications Specification][spec].
 
 Feel free to join the IRC channel: [#emersion on irc.libera.chat][irc].
 
-## Notice
-
-This is a modified version of mako with specific changes applied.
-
-The changes made are listed as follows:
-- dynamic width (through additional 'min-width' option)
-- that's it
 
 ## Running
 
